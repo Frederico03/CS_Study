@@ -1,0 +1,14 @@
+C:\Users\Frederico Garcêz\Documents\PROGRAMAÇÃO\c#\for_study\bin\Debug\net8.0\for_study.exe
+C:\Users\Frederico Garcêz\Documents\PROGRAMAÇÃO\c#\for_study\bin\Debug\net8.0\for_study.deps.json
+C:\Users\Frederico Garcêz\Documents\PROGRAMAÇÃO\c#\for_study\bin\Debug\net8.0\for_study.runtimeconfig.json
+C:\Users\Frederico Garcêz\Documents\PROGRAMAÇÃO\c#\for_study\bin\Debug\net8.0\for_study.dll
+C:\Users\Frederico Garcêz\Documents\PROGRAMAÇÃO\c#\for_study\bin\Debug\net8.0\for_study.pdb
+C:\Users\Frederico Garcêz\Documents\PROGRAMAÇÃO\c#\for_study\obj\Debug\net8.0\for_study.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frederico Garcêz\Documents\PROGRAMAÇÃO\c#\for_study\obj\Debug\net8.0\for_study.AssemblyInfoInputs.cache
+C:\Users\Frederico Garcêz\Documents\PROGRAMAÇÃO\c#\for_study\obj\Debug\net8.0\for_study.AssemblyInfo.cs
+C:\Users\Frederico Garcêz\Documents\PROGRAMAÇÃO\c#\for_study\obj\Debug\net8.0\for_study.csproj.CoreCompileInputs.cache
+C:\Users\Frederico Garcêz\Documents\PROGRAMAÇÃO\c#\for_study\obj\Debug\net8.0\for_study.dll
+C:\Users\Frederico Garcêz\Documents\PROGRAMAÇÃO\c#\for_study\obj\Debug\net8.0\refint\for_study.dll
+C:\Users\Frederico Garcêz\Documents\PROGRAMAÇÃO\c#\for_study\obj\Debug\net8.0\for_study.pdb
+C:\Users\Frederico Garcêz\Documents\PROGRAMAÇÃO\c#\for_study\obj\Debug\net8.0\for_study.genruntimeconfig.cache
+C:\Users\Frederico Garcêz\Documents\PROGRAMAÇÃO\c#\for_study\obj\Debug\net8.0\ref\for_study.dll
